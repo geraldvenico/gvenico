@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **AI API Integration**, **Modern CSS (Container Queries & Subgrid)**, **Database Literacy (SQL & NoSQL)**, and **Soft Skills: Technical Communication**
 - 💬 Ask me about **building full-stack applications with React and Python**
-- ⚡ Fun fact **Was going to pursue music/photography until code got me first**
+- ⚡ Fun fact **I Was going to pursue music/photography until code got me first**
 
 ---
 

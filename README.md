@@ -14,7 +14,7 @@
 
 ### 📊 Contribution Graph
 
-![3D Contrib](https://raw.githubusercontent.com/geraldvenico/gvenico/output/profile-3d-contrib/profile-green-animate.svg)
+![3D Contrib](https://raw.githubusercontent.com/geraldvenico/gvenico/output/profile-green-animate.svg)
 
 ---
 

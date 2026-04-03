@@ -12,9 +12,9 @@
 
 ---
 
-### 🌊 Contribution Graph
+### 🟡 Pac-Man Contribution Graph
 
-![Ocean Wave](https://raw.githubusercontent.com/geraldvenico/gvenico/output/github-contribution-grid-snake.svg)
+![Pac-Man](https://raw.githubusercontent.com/geraldvenico/gvenico/output/pacman.svg)
 
 ---
 

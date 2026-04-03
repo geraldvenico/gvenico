@@ -20,6 +20,6 @@
 
 ---
 
-### 🟡 Pac-Man Contribution Graph
+### 🟡Contribution Graph
 
 ![Pac-Man](https://raw.githubusercontent.com/geraldvenico/geraldvenico/output/pacman.svg)

@@ -12,9 +12,9 @@
 
 ---
 
-### 🌊 Contribution Graph
+### 📊 Contribution Graph
 
-[![Gerald's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=geraldvenico&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![3D Contrib](https://raw.githubusercontent.com/geraldvenico/gvenico/output/profile-3d-contrib/profile-green-animate.svg)
 
 ---
 

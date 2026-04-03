@@ -1,5 +1,3 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Gerald%20Venico&fontSize=50&fontAlignY=35&desc=Junior%20Developer&descAlignY=55&animation=fadeIn&fontColor=ffffff)](https://github.com/kyechan99/capsule-render)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gerald+Venico+👋;Junior+Developer;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 ---
@@ -30,5 +28,3 @@
 ### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=geraldvenico&color=blue&style=flat)
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)](https://github.com/kyechan99/capsule-render)

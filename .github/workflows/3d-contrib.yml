@@ -10,11 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+
+      - name: Generate Pac-Man
+        uses: bowenarthur/pacman-contributes@main
         with:
-          github_user_name: geraldvenico
-          outputs: |
-            dist/pacman.svg?type=pacman
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: geraldvenico
+          output_file: dist/pacman.svg
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

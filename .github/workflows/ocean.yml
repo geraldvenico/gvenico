@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      
+      - name: Generate Ocean Wave
+        uses: Anurag-Deo/github-contribution-grid-snake-dark@main
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#58a6ff&color_dots=#0d1117,#1f3a5f,#2d6a9f,#3d9bd6,#5bc4f5
+          github_user_name: geraldvenico
+          svg_out_path: dist/ocean.svg
+          
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

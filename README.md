@@ -12,9 +12,9 @@
 
 ---
 
-### 📊 Contribution Graph
+### 🟡 Pac-Man Contribution Graph
 
-![3D Contrib](https://raw.githubusercontent.com/geraldvenico/gvenico/output/profile-green-animate.svg)
+![Pac-Man](https://raw.githubusercontent.com/geraldvenico/gvenico/output/pacman.svg)
 
 ---
 
